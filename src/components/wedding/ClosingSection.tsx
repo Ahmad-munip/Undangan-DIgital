@@ -104,7 +104,7 @@ const ClosingSection = ({ audioRef, isPlaying, setIsPlaying }: ClosingSectionPro
       {/* Footer */}
       <footer className="py-6 text-center border-t border-border/30">
         <p className="font-sans-elegant text-[10px] tracking-widest uppercase text-muted-foreground">
-          Made with love • Ayu & Nurohim Wedding 2026
+          Made with love • Risma & Munip Wedding 2026
         </p>
       </footer>
 

@@ -150,7 +150,7 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
         </motion.p>
 
         <h1 className="font-script text-4xl sm:text-5xl md:text-7xl lg:text-8xl gradient-gold-text text-glow-gold mb-2 whitespace-nowrap">
-          <WordReveal text="Ayu Andika" delay={3.8} />
+          <WordReveal text="Risma Mawlina" delay={3.8} />
         </h1>
         <motion.div
           initial={{ opacity: 0, y: 10 }}
@@ -159,9 +159,9 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
           transition={{ delay: 4.3 }}
           className="mb-8"
         >
-          <p className="font-serif text-lg text-foreground font-semibold mt-2">Ayu Andika Vemidian, S.Keb</p>
-          <p className="font-sans-elegant text-sm text-foreground/80 mt-1">Putri ke-4 dari Bapak Jamin (Alm) & Ibu Parni</p>
-          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Sukowidi RT 002 RW 005, Kelurahan Sidomakmur<br/>Kec Widodaren, Ngawi</p>
+          <p className="font-serif text-lg text-foreground font-semibold mt-2">Risma Mawlina</p>
+          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Lahir: 20 Juni 2005</p>
+          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Dk Kertosari RT01/06 Kelurahan Kasepuhan<br/>Kecamatan Batang</p>
         </motion.div>
 
         <motion.div
@@ -183,7 +183,7 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
         </motion.div>
 
         <h1 className="font-script text-4xl sm:text-5xl md:text-7xl lg:text-8xl gradient-gold-text text-glow-gold mb-2 whitespace-nowrap">
-          <WordReveal text="Nurohim" delay={4.1} />
+          <WordReveal text="Ahmad Munip" delay={4.1} />
         </h1>
         <motion.div
           initial={{ opacity: 0, y: 10 }}
@@ -192,9 +192,9 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
           transition={{ delay: 4.6 }}
           className="mb-8"
         >
-          <p className="font-serif text-lg text-foreground font-semibold mt-2">Nurohim, S.Pd,</p>
-          <p className="font-sans-elegant text-sm text-foreground/80 mt-1">Putra ke-2 dari Bapak Sukid & Ibu Carsini</p>
-          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Karangbandung RT 03 RW 06<br/>Kec. Ketanggungan Brebes</p>
+          <p className="font-serif text-lg text-foreground font-semibold mt-2">Ahmad Munip</p>
+          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Lahir: 17 Agustus 2004</p>
+          <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Tanggungharjo<br/>Grobogan, Jawa Tengah</p>
         </motion.div>
 
         <motion.p

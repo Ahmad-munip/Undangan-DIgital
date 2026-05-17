@@ -117,7 +117,7 @@ const SplashScreen = ({ isOpen, onOpen, guestName = "Bapak/Ibu/Saudara/i" }: Spl
 
             <motion.h1 className="font-script text-5xl md:text-7xl gradient-gold-text text-glow-gold mb-6"
               initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: 0.8, duration: 0.8 }}>
-              Ayu & Nurohim
+              Risma & Munip
             </motion.h1>
 
             <div className="divider-gold w-40 mx-auto mb-8" />

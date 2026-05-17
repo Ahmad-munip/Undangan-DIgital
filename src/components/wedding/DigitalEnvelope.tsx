@@ -5,8 +5,8 @@ import { SectionVine } from "./SectionDecorations";
 import { PremiumCardWrapper, FiligreeLine } from "./CardDecorations";
 
 const accounts = [
-  { bank: "BSI", number: "7210408023", name: "NUROHIM" },
-  { bank: "SEA BANK", number: "901428633139", name: "AYU ANDIKA VEMIDIAN" },
+  { bank: "BSI", number: "7210408023", name: "AHMAD MUNIP" },
+  { bank: "SEA BANK", number: "901428633139", name: "RISMA MAWLINA" },
 ];
 
 const DigitalEnvelope = () => {

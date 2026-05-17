@@ -65,7 +65,7 @@ const Index = () => {
          
          <div className="relative z-10 text-white mt-auto pb-32 flex flex-col items-center">
            <p className="font-script text-4xl mb-2 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">The Wedding of</p>
-           <h1 className="font-serif text-5xl md:text-7xl font-bold tracking-widest mb-4 uppercase drop-shadow-[0_4px_8px_rgba(0,0,0,0.9)]">Ayu & Nurohim</h1>
+           <h1 className="font-serif text-5xl md:text-7xl font-bold tracking-widest mb-4 uppercase drop-shadow-[0_4px_8px_rgba(0,0,0,0.9)]">Risma & Munip</h1>
            <p className="font-sans text-xl tracking-widest font-medium drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]">Rabu, 10 Juni 2026</p>
          </div>
       </div>
