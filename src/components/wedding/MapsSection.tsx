@@ -32,7 +32,7 @@ const MapsSection = () => {
           viewport={{ once: true }}
         >
           <iframe
-            src="https://maps.google.com/maps?q=Sukowidi+RT+002+RW+005,+Kelurahan+Sidomakmur,+Kec+Widodaren,+Ngawi&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://maps.google.com/maps?q=Jl.+Gajah+Raya,+Sambirejo,+Kec.+Gayamsari,+Kota+Semarang,+Jawa+Tengah+50166&t=&z=15&ie=UTF8&iwloc=&output=embed"
             width="100%"
             height="350"
             style={{ border: 0 }}
@@ -45,12 +45,12 @@ const MapsSection = () => {
             <div className="flex items-center gap-3">
               <MapPin className="w-5 h-5 text-primary" />
               <div>
-                <p className="font-serif font-semibold text-foreground">Kediaman Mempelai Wanita</p>
-                <p className="font-sans-elegant text-xs text-muted-foreground mt-1 max-w-[250px]">Sukowidi RT 002 RW 005, Kelurahan Sidomakmur, Kec Widodaren, Ngawi</p>
+                <p className="font-serif font-semibold text-foreground">Masjid Agung</p>
+                <p className="font-sans-elegant text-xs text-muted-foreground mt-1 max-w-[250px]">Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166</p>
               </div>
             </div>
             <a
-              href="https://share.google/M4xszPCNAaiCXgrZE"
+              href="https://www.google.com/maps/search/?api=1&query=Jl.+Gajah+Raya,+Sambirejo,+Kec.+Gayamsari,+Kota+Semarang,+Jawa+Tengah+50166"
               target="_blank"
               rel="noopener noreferrer"
               className="gradient-gold font-sans-elegant text-xs tracking-widest uppercase px-6 py-3 rounded-full text-primary-foreground inline-flex items-center gap-2"
