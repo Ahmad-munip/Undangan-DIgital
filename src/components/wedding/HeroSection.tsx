@@ -160,6 +160,7 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
           className="mb-8"
         >
           <p className="font-serif text-lg text-foreground font-semibold mt-2">Risma Mawlina</p>
+          <p className="font-sans-elegant text-sm text-foreground/80 mt-1">Putri ke-3 dari Bapak Kuswahyono</p>
           <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Lahir: 20 Juni 2005</p>
           <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Dk Kertosari RT01/06 Kelurahan Kasepuhan<br/>Kecamatan Batang</p>
         </motion.div>
@@ -193,6 +194,7 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
           className="mb-8"
         >
           <p className="font-serif text-lg text-foreground font-semibold mt-2">Ahmad Munip</p>
+          <p className="font-sans-elegant text-sm text-foreground/80 mt-1">Putra ke-3 dari Bapak Sugiyono</p>
           <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Lahir: 17 Agustus 2004</p>
           <p className="font-sans-elegant text-xs text-foreground/70 mt-1">Tanggungharjo<br/>Grobogan, Jawa Tengah</p>
         </motion.div>
