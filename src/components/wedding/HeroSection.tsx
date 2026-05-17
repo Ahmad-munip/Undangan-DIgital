@@ -206,7 +206,7 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
           viewport={{ once: true }}
           transition={{ delay: 4.7 }}
         >
-          10 . 06 . 2026
+          20 . 06 . 2026
         </motion.p>
 
         {guestName && (

@@ -8,7 +8,7 @@ import { CornerOrnament, FloatingMiniHearts, FiligreeLine, DottedArcs, SwagGarla
 const events = [
   {
     title: "Akad Nikah",
-    date: "Rabu, 10 Juni 2026",
+    date: "Sabtu, 20 Juni 2026",
     time: "07:00 WIB",
     venue: "Masjid Agung",
     address: "Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166",
@@ -17,7 +17,7 @@ const events = [
   },
   {
     title: "Resepsi",
-    date: "Rabu, 10 Juni 2026",
+    date: "Sabtu, 20 Juni 2026",
     time: "10:00 WIB",
     venue: "Masjid Agung",
     address: "Jl. Gajah Raya, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166",

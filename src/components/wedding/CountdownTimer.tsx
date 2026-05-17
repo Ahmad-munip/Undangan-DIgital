@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { SectionVine, LocalGoldDust } from "./SectionDecorations";
 
-const TARGET_DATE = new Date("2026-06-15T08:00:00+07:00").getTime();
+const TARGET_DATE = new Date("2026-06-20T08:00:00+07:00").getTime();
 
 interface TimeLeft {
   days: number;
