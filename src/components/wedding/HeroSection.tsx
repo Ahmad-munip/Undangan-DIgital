@@ -79,15 +79,15 @@ const HeroSection = ({ guestName }: HeroSectionProps) => {
       {/* Parallax Video/Image Background */}
       <motion.div className="absolute inset-0" style={{ y: bgY, scale: bgScale }}>
           <video
-            autoPlay muted loop playsInline preload="metadata"
+            autoPlay muted loop playsInline preload="auto"
             poster={heroBg}
-            className="absolute inset-0 h-full w-full object-cover lg:hidden"
+            className="absolute inset-0 h-full w-full object-cover lg:hidden z-0"
             onError={(e) => { (e.target as HTMLVideoElement).style.display = "none"; }}
           >
             <source src={HERO_VIDEO_URL} type="video/mp4" />
           </video>
-        <img src={heroBg} alt="Hero background" className="absolute inset-0 h-full w-full object-cover -z-10" />
-        <div className="absolute inset-0 bg-background/20" />
+        <img src={heroBg} alt="Hero background" className="absolute inset-0 h-full w-full object-cover -z-10 hidden lg:block" />
+        <div className="absolute inset-0 bg-background/20 z-10" />
       </motion.div>
 
       {/* Content with parallax and animated frame */}
